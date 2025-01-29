@@ -1,4 +1,4 @@
-# voice-recognition
+# voice_recognition
 # Samaritan - Your Personal Virtual Assistant
 
 Samaritan is a virtual assistant designed to help with various tasks such as telling the time and date, sending emails, searching Wikipedia, taking screenshots, and more. This assistant uses several Python libraries to provide these functionalities, making your life easier and more organized.
